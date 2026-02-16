@@ -1,33 +1,44 @@
-# superstore-sales-analysis
-Sales analysis using Excel, SQL, and Power BI# 📊 Superstore Sales Analysis
+📊 Sales Performance Dashboard – Power BI Project
+🔹 Project Overview
 
-## 📌 Project Overview
-This project analyzes Superstore sales data to uncover insights on sales, orders, and average order value using Excel, SQL, and Power BI.
+This project presents an interactive Sales Performance Dashboard developed using Power BI. The dashboard analyzes sales data to identify revenue trends, customer distribution, and regional performance insights.
 
-## 🛠 Tools Used
-- Microsoft Excel
-- MySQL
-- Power BI
+🔹 Key KPIs
 
-## 📂 Dataset
-- Superstore sales dataset (CSV format)
+Total Sales
 
-## 📈 Key Metrics
-- Total Sales
-- Total Orders
-- Average Order Value
+Total Orders
 
-## 📊 Dashboard Preview
-(Add Power BI screenshot here)
+Total Customers
 
-## 🔍 Insights
-- High sales observed in specific regions
-- Average order value trends across time
+Average Order Value
 
-## 🚀 Future Improvements
-- Add more KPIs
-- Include profit analysis
-- Add slicers for interactivity
+🔹 Features
 
+Dynamic region-based slicer
 
+Sales trend analysis over time
 
+Category-level performance comparison
+
+Interactive visuals for business insights
+
+DAX-based calculated measures
+
+🔹 Tools & Technologies Used
+
+Power BI
+
+DAX
+
+Microsoft Excel
+
+MySQL (for understanding relational data concepts)
+
+🔹 Business Insights Derived
+
+Identified top-performing regions and categories
+
+Observed sales growth trends over multiple years
+
+Analyzed customer purchasing behavior using AOV
