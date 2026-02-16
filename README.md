@@ -8,7 +8,6 @@ This project analyzes Superstore sales data to uncover insights on sales, orders
 - Microsoft Excel
 - MySQL
 - Power BI
-- GitHub
 
 ## 📂 Dataset
 - Superstore sales dataset (CSV format)
